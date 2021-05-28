@@ -1,4 +1,5 @@
 language: java
-jdk: oraclejdk8
+jdk:
+  - openjdk11
 script: 
   - javac trityp.java
